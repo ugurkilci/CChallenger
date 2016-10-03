@@ -1,8 +1,0 @@
-User-agent: *
-Disallow: /css/
-Disallow: /fonts/
-Disallow: /js/
-Disallow: /resimler/
-Disallow: /ayar.php
-Disallow: /fon.php
-Disallow: /ushare.php
