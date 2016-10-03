@@ -1,0 +1,1 @@
+<?php include("fon.php"); echo rep("Denize Atılan Kağıt 3 Hafta, Teneke 100 Yıl, Plastik İse Kaç Yıl Yok Olmadan Dayanabilmektedir?"); ?>
